@@ -1,0 +1,9 @@
+python-dotenv==1.0.0
+numpy==1.23.5
+praw==7.7.1
+flask==2.0.1
+werkzeug==2.0.3
+pandas==1.5.3
+nltk==3.8.1
+scikit-learn==1.0.2
+textblob==0.17.1 

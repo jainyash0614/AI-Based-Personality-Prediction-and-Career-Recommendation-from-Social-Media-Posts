@@ -1,0 +1,8 @@
+# Reddit API Credentials
+# Get these from https://www.reddit.com/prefs/apps
+# Create a new app with type "script"
+# Rename this file to .env and fill in your actual credentials
+
+REDDIT_CLIENT_ID=your_client_id_here
+REDDIT_CLIENT_SECRET=your_client_secret_here
+REDDIT_USER_AGENT=PersonalityAnalyzer/1.0 (by /u/your_username) 
